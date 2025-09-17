@@ -39,6 +39,8 @@ The database is built using MongoDB and uses Mongoose schemas to model the appli
 ## Workflow 
 
 <img width="768" height="179" alt="backend_workflow" src="https://github.com/user-attachments/assets/b28dd880-064e-40be-9ed4-8ba6823e2404" />
+<img width="1536" height="1024" alt="Schema (2)" src="https://github.com/user-attachments/assets/77e4201f-ac9b-4c17-81fe-bdbfb5d954e0" />
+
 
 
 ## ⚙ API Endpoints
